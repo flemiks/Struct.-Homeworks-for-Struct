@@ -1,0 +1,10 @@
+﻿  BitsetStruct.cpp
+  Struct2.cpp
+E:\Step Lessonns\C++\16\Struct2\Struct2\files.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Struct2.cpp')
+  
+E:\Step Lessonns\C++\16\Struct2\Struct2\Struct2.cpp(98,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Step Lessonns\C++\16\Struct2\Struct2\Struct2.cpp(99,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+Struct2.obj : error LNK2005: main already defined in BitsetStruct.obj
+E:\Step Lessonns\C++\16\Struct2\x64\Debug\Struct2.exe : fatal error LNK1169: one or more multiply defined symbols found
